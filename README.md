@@ -1,3 +1,4 @@
-# ComfyUI_Docs_for_ChatGPT
-A complete ChatGPT optimized Knowledge Base of ComfyUI. This repo contains a machine ready version of the entire ComfyUI manual. It is structured into Markdown files for direct ingestion by ChatGPT or any other LLM. Nothing is omitted. It includes installation, tutorials, troubleshooting and full changelog.
+# ComfyUI-Docs_for_ChatGPT
 
+THis is the complete **ComfyUI manual and documentation** prepaired to feed into **ChatGPT** or any **LLM**  
+This repository contains a **complete ComfyUI Knowledge Base**: installation, workflows, tutorials, troubleshooting, and the full changelog — optimized for AI ingestion.
